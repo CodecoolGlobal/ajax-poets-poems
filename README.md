@@ -1,5 +1,8 @@
 # About
 
+Login details: Username: user1@user1 Password: user1
+                         user2@user2           user2
+
 Quickstart repo for a Maven managed AJAX web-application using Servlets and JDBC.
 
 ## `DataSource`
